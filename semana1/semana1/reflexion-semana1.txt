@@ -1,0 +1,9 @@
+REFLEXIÓN - SEMANA 1
+
+PREGUNTA 4 - Reflexión de la semana
+
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+
+RESPUESTA:
+
+El uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con Git están profundamente relacionados. La ciudadanía digital requiere que verifiquemos y compartamos información ética y responsablemente, evitando la desinformación que daña a la comunidad. De manera similar, Git nos enseña a trabajar de forma organizada, documentando cambios y colaborando transparentemente con otros desarrolladores. Ambos procesos demandan integridad: al compartir información confiable en línea mantenemos la confianza pública, mientras que al usar Git de manera disciplinada, mantenemos la calidad y trazabilidad del código. Así, la responsabilidad digital y la organización técnica convergen en un objetivo común: construir espacios colaborativos honestos y ordenados que contribuyan al bienestar colectivo y a la paz.
