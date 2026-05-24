@@ -1,0 +1,8 @@
+Las APIs son importantes porque permiten que diferentes aplicaciones compartan información de manera rápida y organizada. 
+En las comunidades podrían utilizarse para enviar reportes, alertas o noticias importantes en tiempo real. 
+Por ejemplo, una comunidad podría reportar daños en las vías, problemas de seguridad o emergencias desde una aplicación web o móvil. 
+Las APIs ayudan a centralizar la información y facilitar la comunicación entre ciudadanos y organizaciones. 
+También permiten automatizar procesos y mejorar la atención a las necesidades de las personas.
+Gracias a las APIs, la información puede almacenarse y consultarse de manera más eficiente.
+Además, facilitan el desarrollo de plataformas comunitarias modernas y accesibles. 
+Finalmente, ayudan a fortalecer la participación ciudadana y el trabajo colaborativo mediante la tecnología.
