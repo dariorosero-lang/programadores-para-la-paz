@@ -1,0 +1,5 @@
+Las plataformas tecnológicas que reciben información de los ciudadanos son importantes porque permiten organizar mejor las necesidades de una comunidad. 
+Al recibir datos de forma estructurada es más fácil analizar los problemas y buscar soluciones. 
+El uso de formatos como JSON ayuda a que la información pueda ser procesada por diferentes sistemas. 
+Además, permite que los usuarios puedan enviar reportes de manera rápida y ordenada. Estas herramientas mejoran la comunicación entre ciudadanos y organizaciones. 
+También ayudan a tomar decisiones basadas en información real. Por eso es importante que las plataformas tengan sistemas seguros para recibir y proteger estos datos.
