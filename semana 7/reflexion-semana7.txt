@@ -1,0 +1,8 @@
+Las plataformas tecnológicas son importantes porque permiten que las comunidades puedan informar problemas 
+y necesidades de una manera más organizada. 
+Registrar reportes ayuda a tener un control sobre las situaciones que ocurren dentro de un lugar. 
+Además, permite consultar la información cuando sea necesario y tomar mejores decisiones. 
+El uso de APIs facilita la comunicación entre usuarios y sistemas digitales. 
+También permite almacenar datos de forma estructurada para analizarlos posteriormente. 
+Estas herramientas ayudan a mejorar la participación ciudadana y la comunicación. 
+Por eso es importante contar con plataformas seguras y fáciles de utilizar.
