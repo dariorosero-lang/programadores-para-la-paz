@@ -1,0 +1,18 @@
+Datos enviados:
+
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+
+Respuesta del servidor:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+
+El servidor recibió correctamente los datos enviados gracias al uso de req.body y express.json().
