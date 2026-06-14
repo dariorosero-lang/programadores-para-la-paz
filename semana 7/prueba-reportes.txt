@@ -1,0 +1,29 @@
+Se realizó una prueba enviando información mediante una petición POST a:
+
+http://localhost:3000/reportes
+
+Datos enviados:
+
+{
+ "tipo": "Infraestructura",
+ "descripcion": "Daño en alumbrado público"
+}
+
+El servidor recibió la información y la almacenó dentro del array reportes.
+
+Al consultar la ruta GET:
+
+http://localhost:3000/reportes
+
+El servidor devuelve la lista de reportes registrados:
+
+[
+ {
+  "id": 1,
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+ }
+]
+
+
+Esto permite consultar los datos guardados mientras el servidor permanece encendido.
