@@ -1,0 +1,13 @@
+Las plataformas tecnológicas utilizadas por las comunidades necesitan servidores estables y seguros para funcionar correctamente.
+
+Un servidor permite que los usuarios puedan acceder a la información y utilizar los servicios disponibles.
+
+La estabilidad ayuda a evitar fallos y mejora la experiencia de las personas que utilizan la plataforma.
+
+También es importante registrar los eventos mediante logs para detectar errores y solucionar problemas.
+
+La seguridad permite proteger los datos y evitar accesos no autorizados.
+
+Un servidor bien administrado genera confianza en los usuarios.
+
+Por esta razón, las plataformas comunitarias deben contar con sistemas confiables, monitoreados y protegidos.
