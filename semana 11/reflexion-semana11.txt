@@ -1,0 +1,7 @@
+Una plataforma tecnológica que promueve la participación ciudadana debe contar 
+con una base de datos para almacenar la información de manera organizada y facilitar su consulta. 
+La autenticación de usuarios es importante porque permite controlar quién puede acceder a determinadas funciones 
+y protege la información de la comunidad. Además, la protección de los datos evita que personas no autorizadas 
+conozcan información privada o hagan un uso indebido de ella. 
+Estas medidas fortalecen la confianza de los usuarios y mejoran la seguridad del sistema. 
+También permiten mantener un mejor seguimiento de las actividades y garantizan que la plataforma funcione de forma responsable, transparente y eficiente.
